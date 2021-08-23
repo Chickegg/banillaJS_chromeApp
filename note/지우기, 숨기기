@@ -1,0 +1,4 @@
+CSS를 통해서 숨기는 방방법
+    .hidden {
+        display: none;
+    }
